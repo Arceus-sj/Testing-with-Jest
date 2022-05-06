@@ -1,0 +1,15 @@
+{
+  "name": "leap_year",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leapYear.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Leap",
+    "Year"
+  ],
+  "author": "Shantanu Jana",
+  "license": "ISC"
+}
